@@ -20,11 +20,11 @@ You can think of the blue dots as male patients and the red dots as female patie
 ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/Screenshot%20(4).png)
 
 # Following is the explaination of neural network implemented
-                    ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/1.jpeg)
+   ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/1.jpeg)
+   
+   ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/2.jpeg)
 
-                    ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/2.jpeg)
-
-                    ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/3.jpeg)
+   ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/3.jpeg)
 
 # Results of 3 layer neural network
 ![alt text](https://github.com/samyak74/NeuralNetworkFromScratch/blob/master/Screenshot%20(2).png)
